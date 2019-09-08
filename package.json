@@ -1,0 +1,19 @@
+{
+  "name": "todo-test-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bumsyalao/todo-test-app.git"
+  },
+  "author": "Bunmi Alao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bumsyalao/todo-test-app/issues"
+  },
+  "homepage": "https://github.com/bumsyalao/todo-test-app#readme"
+}
